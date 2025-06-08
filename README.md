@@ -1,7 +1,6 @@
-# Otsu Cliente-Servidor (Client Heavy)
+# Otsu Cliente-Servidor (Server Heavy)
 
-Este proyecto es una aplicación web que implementa el algoritmo de umbralización de Otsu para la binarización de imágenes. Presenta una arquitectura híbrida que permite el procesamiento de imágenes tanto en el cliente (navegador) como en el servidor, priorizando el procesamiento en el lado del cliente mediante Pyodide.
-
+Este proyecto es una aplicación web que implementa el algoritmo de umbralización de Otsu para la binarización de imágenes. Presenta una arquitectura que permite el procesamiento de imágenes en el servidor.
 ## 🚀 Descripción
 
 El sistema permite a los usuarios:
